@@ -4852,7 +4852,7 @@ typedarray-to-buffer@^3.1.5:
   dependencies:
     is-typedarray "^1.0.0"
 
-typescript@^3.9.6, typescript@^3.9.7:
+typescript@3.9.7, typescript@^3.9.7:
   version "3.9.7"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
   integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
@@ -4945,6 +4945,18 @@ verror@1.10.0:
     assert-plus "^1.0.0"
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
+
+"vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.9.7/public/@types/vtex.product-context":
+  version "0.9.7"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.9.7/public/@types/vtex.product-context#4024c589f1ba318e92219a88bf18b4e3774dc85c"
+
+"vtex.real-time-analytics-graphql@https://partnerstrainingsolution--appliancetheme.myvtex.com/_v/private/typings/linked/v1/vtex.real-time-analytics-graphql@0.0.1+build1616530880/public/@types/vtex.real-time-analytics-graphql":
+  version "0.0.1"
+  resolved "https://partnerstrainingsolution--appliancetheme.myvtex.com/_v/private/typings/linked/v1/vtex.real-time-analytics-graphql@0.0.1+build1616530880/public/@types/vtex.real-time-analytics-graphql#96bc88e43e4f16c903a1be7b7afd7f2f620c85cf"
+
+"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.128.2/public/@types/vtex.render-runtime":
+  version "8.128.2"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.128.2/public/@types/vtex.render-runtime#67f5975f7edd73c9afa7bee57734540c0ead5428"
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"

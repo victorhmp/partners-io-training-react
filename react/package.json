@@ -1,5 +1,5 @@
 {
-  "name": "CHANGE_ME",
+  "name": "live-product-views",
   "version": "0.0.0",
   "scripts": {
     "test": "vtex-test-tools test"
@@ -20,6 +20,9 @@
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
-    "typescript": "^3.9.6"
+    "typescript": "3.9.7",
+    "vtex.product-context": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.9.7/public/@types/vtex.product-context",
+    "vtex.real-time-analytics-graphql": "https://partnerstrainingsolution--appliancetheme.myvtex.com/_v/private/typings/linked/v1/vtex.real-time-analytics-graphql@0.0.1+build1616530880/public/@types/vtex.real-time-analytics-graphql",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.128.2/public/@types/vtex.render-runtime"
   }
 }

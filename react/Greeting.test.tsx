@@ -1,7 +1,7 @@
 import React from 'react'
 import { render } from '@vtex/test-tools/react'
 
-import Greeting from './Greeting'
+import Greeting from './LiveViewCount'
 
 test('greets Fred', () => {
   const { queryByText } = render(<Greeting name="Fred" />)
